@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard - Licences sportives</title>
+</head>
+<body>
+  <h1>Les licences par fédérations sportives en France</h1>
+  <iframe width="100%" height="800" frameborder="0" allowFullScreen="true"
+    src="https://app.powerbi.com/view?r=eyJrIjoiYjQ5MjAwYWUtMDFjMi00MzdmLThhYzEtY2YwOGQzOWU3OTU4IiwidCI6ImIwMDI3NmM5LTJiNmYtNDVmYS1iYzYxLTA3YTAyY2JmNjQ2ZSJ9">
+  </iframe>
+  <p><a href="index.html">← Retour à l’accueil</a></p>
+</body>
+</html>
